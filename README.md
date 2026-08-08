@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta name="monetag" content="2eab308c506ea8bbff954f5a4336fcc1">
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>VaultFlow — Finance & Creator Operations Demo</title>
