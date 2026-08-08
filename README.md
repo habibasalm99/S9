@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
+<meta name="monetag" content="2eab308c506ea8bbff954f5a4336fcc1">
+  <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>VaultFlow — Finance & Creator Operations Demo</title>
 <meta name="description" content="VaultFlow is a fictional finance operations dashboard demo inspired by modern exchange, payout, banking and analytics interfaces.">
